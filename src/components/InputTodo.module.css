@@ -1,0 +1,57 @@
+.InputTodo {
+    background-color: #f1f5f9;
+    border-radius: 20px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    width: 300px;
+    margin: 0 auto;
+    text-align: center;
+    font-family: 'Arial', sans-serif;
+  }
+  
+  .date-time {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 14px;
+    color: #333;
+  }
+  
+  .date {
+    font-weight: bold;
+  }
+  
+  .time {
+    color: #666;
+  }
+  
+  .input-container {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+  }
+  
+  .textbar {
+    border: 1px solid #a3d4f7;
+    border-radius: 20px;
+    padding: 10px;
+    width: 70%;
+    font-size: 16px;
+    outline: none;
+  }
+  
+  .submitbutton {
+    background-color: #a3d4f7;
+    border: none;
+    border-radius: 50%;
+    color: white;
+    font-size: 20px;
+    width: 30px;
+    height: 30px;
+    margin-left: 10px;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
